@@ -65,6 +65,6 @@ public class Main {
         System.out.println("Если в компании работает " + newWorkersAmount + " человек, то всего "
         + newTotalTime + " часов работы может быть поделено между сотрудниками");
 
-        //nu i vse
+        // nu i vse
     }
 }
